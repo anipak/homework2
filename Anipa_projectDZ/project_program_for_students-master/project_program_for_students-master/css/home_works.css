@@ -1,0 +1,74 @@
+
+/* GMAIL BLOCK */
+
+.gmail_block {
+    background: #65296c;
+    padding: 100px 0;
+}
+
+.inner_gmail_block {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    border: 1px solid white;
+    height: 300px;
+    border-radius: 20px;
+    align-items: center;
+}
+
+.form_gmail {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.form_gmail button {
+    width: 100%;
+    margin: 20px 0;
+}
+
+/* MOVE BLOCK */
+
+.move_block {
+    background-color: #65296c;
+    padding: 100px 0;
+    margin-top: 100px;
+}
+
+.parent_block {
+    height: 500px;
+    width: 500px;
+    border: 2px solid white;
+    position: relative;
+    margin: 0 auto;
+}
+
+.child_block {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background: white;
+}
+
+.inner_move_block {
+    margin-top: 50px;
+}
+
+
+/*Home work 3 */
+
+.buttons{
+    margin-top: 100px;
+    background-color: #65296c;
+
+}
+
+.btn{
+    background-color: #077363;
+    border: 2px solid ;
+}
+
+input{
+    background-color: #096467;
+    border: 2px solid yellow;
+}
